@@ -1,7 +1,8 @@
 Description
 ===========
 
-Crossmon-cpu is a cpu usage gatering module for crossmon-collect
+Crossmon-cpu is a cpu usage gatering module for crossmon-collect.
+
 
 Requirements
 ============
