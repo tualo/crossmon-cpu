@@ -5,7 +5,7 @@
 		"name": "Thomas Hoffmann",
 		"email": "thomas.hoffmann@tualo.de"
 	},
-	"description": "CPU Usage collector for Cross Monitor",
+	"description": "CPU Usage collector for crossmon-collect",
 	"main": "./lib/mon",
 	"engines": {
 		"node": ">=0.8.0"
@@ -24,5 +24,8 @@
 		"type": "git",
 		"url": "git://github.com/tualo/crossmon-cpu.git"
 	},
-	"readmeFilename": "README.md"
+	"readmeFilename": "README.md",
+	"dependencies": {
+		"commander": ">=2.0.0"
+	}
 }
